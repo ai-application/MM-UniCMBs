@@ -1,3 +1,7 @@
+# attention
+Considering that this article is currently under review, the core code associated with our research will be released upon the article's acceptance.
+
+# description
 This is the code based on the YOLOv8, https://github.com/ultralytics/ultralytics, if you use this code please reference YOLOv8.
 
 The install pipeline can be found in YOLOv8, our requirement of CMBs-YOLO is same as YOLOv8.

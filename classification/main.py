@@ -101,11 +101,11 @@ def get_args_parser():
     parser.add_argument('--finetune', default='', help='finetune from checkpoint')
 
     # Dataset parameters
-    parser.add_argument('--data-path', default='/home/box-train/xiaolin/UniFormer-main/image_classification/dataset/MINIST', type=str,
+    parser.add_argument('--data-path', default='/home/box-train', type=str,
                         help='dataset path')
 
     parser.add_argument('--inat-category', default='name',
-                        choices=['kingdom', 'phylum', 'class', 'order', 'supercategory', 'family', 'genus', 'name'],
+                        choices=[],
                         type=str, help='semantic granularity')
 
     parser.add_argument('--output_dir', default='',

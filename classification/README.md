@@ -7,7 +7,7 @@ CUDA_VISIBLE_DEVICES=2 python main.py --input-size 64 --model-name CmbFormer_S -
 # CLIP text embedding
 CUDA_VISIBLE_DEVICES=2 python main.py --input-size 64 --model-name CmbFormer_S --input-text --batch-size 4 --data-path /home/box-train/CMB_Classification/CMB_classification/dataset/CMB --warmup-epochs 30 --epoch 100 --warmup-epochs 30 --output_dir CMB_output-CmbFormer_S
 
-# CLIP BERT text embedding and clip image bedding
+# BERT text embedding and clip image bedding
 CUDA_VISIBLE_DEVICES=2 python main.py --input-size 64 --model-name CmbFormer_S --input-text --use-bert --use-clip-image --batch-size 4 --data-path /home/box-train/CMB_Classification/CMB_classification/dataset/CMB --warmup-epochs 30 --epoch 100 --warmup-epochs 30 --output_dir CMB_output-CmbFormer_S
 
 # CLIP for text and image embedding

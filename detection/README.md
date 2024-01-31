@@ -10,4 +10,4 @@ Train CMD: python train.py, you should modify some configurations in train.py to
 
 Prediction CMD: python prediction.py, you should modify some configurations in prediction.py to meet your dataset.
 
-We warmly welcome pointing out any bugs in the code.
+We will warmly welcome pointing out any bugs in the code.

@@ -1,5 +1,5 @@
 # Description
-This is the implementation of our paper: MM-UniCMBs. Datasets Access can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
+This is the implementation of our paper: MM-UniCMBs. Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
 
 # Citation
 We would appreciate if you could give this repo a star or cite our paper!

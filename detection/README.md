@@ -1,6 +1,3 @@
-# attention
-Considering that this article is currently under review, the implement details associated with our research will cooming soon.
-
 # description
 This is the code based on the YOLOv8, https://github.com/ultralytics/ultralytics, please reference YOLOv8.
 

@@ -7,6 +7,3 @@ python train.py, you should modify some configurations in train.py to meet your 
 
 # Prediction command
 python prediction.py, you should modify some configurations in prediction.py to meet your dataset.
-
-# Cite
-We will warmly welcome pointing out any bugs in the code.

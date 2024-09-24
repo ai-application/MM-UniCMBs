@@ -206,6 +206,13 @@ class ImageTextBlock(nn.Module):
         B, C, T, H, W = x.shape
         x = x + self.pos_embed(x)
 
+        #add supprt for dynamic input training and testing
+        if H*W != text.shape[-2]:
+            x = x.reshape(B, C * T, H, W)
+            x = F.interpolate(x, size=(int(np.sqrt(text_T)), int(np.sqrt(text_T))), mode='bilinear', align_corners=False)
+            x = x.reshape(B, C, T, int(np.sqrt(text_T)), int(np.sqrt(text_T)))
+            B, C, T, H, W = x.shape
+
         x = torch.cat([self.conv_text(text.permute(0, 2, 1)), x.reshape(B, C*T, H*W)], dim=1)
 
         x = self.conv3(x).reshape(B, C, T, H, W)

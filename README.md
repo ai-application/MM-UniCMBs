@@ -2,7 +2,8 @@
 This is the implementation of our paper: MM-UniCMBs. Partial Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
 
 # achitecture of MM-UniCMBs
-![GA](https://github.com/user-attachments/assets/0b1c5579-4d1c-45de-ac9a-c5641e9bf3e2)
+![MM-UniCMBs](https://github.com/user-attachments/assets/7e858e54-4691-4c59-ac7e-1f0643eea7ba)
+
 
 # Citation
 We would appreciate if you could give this repo a star or cite our paper：A novel detection and classification framework for diagnosing of cerebral microbleeds using transformer and language.

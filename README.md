@@ -1,6 +1,9 @@
 # Description
 This is the implementation of our paper: MM-UniCMBs. Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
-![Uploading GA.png…]()
+
+# achitecture of MM-UniCMBs
+![GA](https://github.com/user-attachments/assets/0b1c5579-4d1c-45de-ac9a-c5641e9bf3e2)
+
 
 
 # Citation

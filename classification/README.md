@@ -1,3 +1,6 @@
+
+![classification](https://github.com/user-attachments/assets/320ad6cd-3039-40bc-8ffa-0bbb41ea4937)
+
 # Bert for text embedding
 CUDA_VISIBLE_DEVICES=2 python main.py --input-size 64 --model-name CmbFormer_S --input-text --use-bert --batch-size 4 --data-path /home/box-train/CMB_Classification/CMB_classification/dataset/CMB --warmup-epochs 30 --epoch 100 --warmup-epochs 30 --output_dir CMB_output-CmbFormer_S
 

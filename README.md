@@ -1,5 +1,11 @@
 # Description
-This is the implementation of our paper: MM-UniCMBs. Partial Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
+This is the implementation of our paper: MM-UniCMBs. 
+
+# Private Dataset
+Partial private Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
+
+# Public Dataset
+https://zenodo.org/records/4520773
 
 # Achitecture of MM-UniCMBs
 ![MM-UniCMBs](https://github.com/user-attachments/assets/7e858e54-4691-4c59-ac7e-1f0643eea7ba)

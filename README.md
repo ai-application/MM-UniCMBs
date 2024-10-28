@@ -1,5 +1,5 @@
 # Description
-This is the implementation of our paper: A novel detection and classification framework for diagnosing of cerebral microbleeds using transformer and language. 
+This is the implementation of our paper: A novel detection and classification framework for diagnosing of cerebral microbleeds using transformer and language. Paper url: https://www.mdpi.com/2306-5354/11/10/993 
 
 # Private Dataset
 Partial private Datasets can be found in: https://drive.google.com/file/d/1-ceIabBmExSwhIqiBGVvTtLBiz0BftMa/view?usp=drive_link
